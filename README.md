@@ -21,6 +21,9 @@ A brief explanation of some important questions for each HW is provided below:
 - Calculating the Fourier transform of a signal
 - Calculating the magnitude and phase of signals for Fourier transformation
 
+![HW3 Image1](images/HW3-Q2.png)
+![HW3 Image2](images/HW3-Q3.png)
+
 ### HW4
 - Implementing 2D convolution for images
 - Supporting padding and stride
@@ -32,3 +35,6 @@ A brief explanation of some important questions for each HW is provided below:
   - Vertical Sobel
   - Horizontal Sobel
   - Averaging
+
+![HW4 Image1](images/HW4-img1.png)
+![HW4 Image2](images/HW4-img2.png)
